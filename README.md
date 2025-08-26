@@ -100,5 +100,5 @@ Our vision is to revolutionize corporate governance by creating a trustless, tra
 
 ---
 
-*This project represents a significant step towards modernizing corporate governance through blockchain technology, promoting transparency, efficiency, and democratic participation in corporate decision-making.*
+ST1ST11QJRCKDTRJWM727DES3YJNR60ZDP3XT81J1.CorporateGovernanceDAO
 <img width="1359" height="771" alt="image" src="https://github.com/user-attachments/assets/fa4d7c0e-25b0-4f04-ac36-a3a66244b2ca" />
