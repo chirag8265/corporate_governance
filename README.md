@@ -80,9 +80,6 @@ Our vision is to revolutionize corporate governance by creating a trustless, tra
 - **Network**: Stacks Blockchain
 - **Contract Name**: corporate-governance-dao
 - **Deployment Status**: Pending
-- **Contract Address**: *To be updated*
-- **Deployment Transaction**: *To be updated*
-- **Block Height**: *To be updated*
 
 ## Getting Started
 
